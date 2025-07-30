@@ -16,8 +16,8 @@
 </a>
 </p>
 
-🌱 兴趣与生活 / Hobbies & Life
-学习技术之余，我喜欢阅读和看电影。关于我的书影音记录，你可以在我的豆瓣主页找到。
+🌱 Hobbies & Life
+ 大部分时间，我喜欢阅读和看电影。关于我的书影音记录，你可以在我的豆瓣主页找到。
 
 <p>
 <a href="https://www.douban.com/people/228417788/" target="_blank">
